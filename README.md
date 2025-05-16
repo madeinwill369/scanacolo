@@ -1,0 +1,2 @@
+# scanacolo
+Scana AI
